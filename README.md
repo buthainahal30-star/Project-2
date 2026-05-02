@@ -2,7 +2,7 @@
  * 2431-CCS-4 - DATA STRUCTURE AND ALGORITHMS
  * GROUP MEMBERS: Fatmah Mhmmad, Ghadah Ali Almalki, Buthainah Mohammed
  * SECTION: 2217
- */
+ **/
 
 public class LibraryManagementSystem {
 
